@@ -1,0 +1,1 @@
+* * * * * nohup /data/home/hadoop/acl-hive/start_acl_hive.sh > /dev/null 2>&1 &
